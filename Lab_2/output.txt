@@ -1,0 +1,41 @@
+
+Задание 1: Загрузка и вывод текста письма
+
+> Anyone knows how much it costs to host a web portal ?>Well, it depends on how many visitors you're expecting.This can be anywhere from less than 10 bucks a month to a couple of $100. You should checkout http://www.rackspace.com/ or perhaps Amazon EC2 if youre running something big..To unsubscribe yourself from this mailing list, send an email to:groupname-unsubscribe@egroups.com
+
+Задание 2: Предобработка письма
+
+85 915 793 1076 882 369 1698 789 1821 1830 882 430 1170 793 1001 1894 237 161 88 687 944 1662 1119 1061 1698 374 1161 476 1119 1892 1509 798 1181 1236 809 1894 1439 1546 1757 1895 687 1675 991 960 1476 70 529 530
+
+Задание 3: Преобразование в вектор признаков
+
+Длина вектора признаков: 1899
+Количество ненулевых элементов: 42
+
+Задание 4: Обучение классификатора
+
+Тренировка SVM-классификатора с линейным ядром...
+Точность на обучающей выборке: 99.825
+
+Задание 5: Оценка точности на тестовой выборке
+
+Точность на тестовой выборке: 98.9
+
+Задание 6: Определение слов, чаще встречающихся в спаме
+
+Топ-15 слов в письмах со спамом:
+ our             (0.500614)
+ click           (0.465916)
+ remov           (0.422869)
+ guarante        (0.383622)
+ visit           (0.367710)
+ basenumb        (0.345064)
+ dollar          (0.323632)
+ will            (0.269724)
+ price           (0.267298)
+ pleas           (0.261169)
+ most            (0.257298)
+ nbsp            (0.253941)
+ lo              (0.253467)
+ ga              (0.248297)
+ hour            (0.246404)
