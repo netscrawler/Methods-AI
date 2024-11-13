@@ -1,0 +1,9 @@
+# Игнорировать все папки .venv и venv
+.venv/
+venv/
+**/.venv/
+**/venv/
+ai/
+.otch/
+.*/
+**/.*/
